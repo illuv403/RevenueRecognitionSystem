@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "src/RevenueRecognitionSystem", "src\RevenueRecognitionSystem\RevenueRecognitionSystem.csproj", "{4AE80305-3665-4C76-B401-6FED64B3DCA1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RevenueRecognitionSystem.API", "src\RevenueRecognitionSystem.API\RevenueRecognitionSystem.API.csproj", "{4AE80305-3665-4C76-B401-6FED64B3DCA1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
